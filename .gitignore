@@ -195,4 +195,4 @@ cython_debug/
 
 
 #Qdrant
-qdrant_storage
+qdrant_storage/
