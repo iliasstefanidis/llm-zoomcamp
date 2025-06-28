@@ -14,3 +14,9 @@ Step 2
 Open docker 
 run 
 docker run -p 6333:6333 -p 6334:6334 -v "${PWD}/qdrant_storage:/qdrant/storage" qdrant/qdrant
+
+
+Step 3
+
+run
+pip install fastembed
